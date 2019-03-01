@@ -1,4 +1,4 @@
-## How to contribute
+## How to contribute test
 
 1. Fork the repo to your account
 2. Clone the repo from your own account, rather than the origin one
